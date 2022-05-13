@@ -1,0 +1,23 @@
+h1,h2, p {
+text-align: center;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2{
+    font-size: 32px;
+}
+
+body {
+    background-color: lemonchiffon;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+
+
